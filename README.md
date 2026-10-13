@@ -12,4 +12,4 @@ I'm a junior frontend developer in Ohio. I build things people can actually use,
 
 Before code, I spent years in respiratory therapy and mechanical estimating. Same habit in both: read the situation closely and get it right the first time.
 
-📫 [nick.soltau@gmail.com](mailto:nick.soltau@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nicholas-soltau-075798376)
+📫 [nick.soltau@gmail.com](mailto:nick.soltau@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nicholas-soltau-075798376) · [Portfolio](https://portfolio-mu-khaki-39.vercel.app)
