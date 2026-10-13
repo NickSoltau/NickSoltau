@@ -1,6 +1,6 @@
 # Hi, I'm Nick Soltau 👋
 
-I'm a junior frontend developer in Ohio. I build things people can actually use, and I learn by shipping them.
+I'm a frontend developer in Northwest Ohio. I build things people can actually use, and I learn by shipping them.
 
 **What I work with:** React · Next.js · TypeScript · Tailwind CSS · Supabase · Firebase · Stripe · Vite
 
