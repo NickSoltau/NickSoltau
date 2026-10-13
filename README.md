@@ -1,18 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nick Soltau
-====================================================================================================================================
+# Hi, I'm Nick Soltau 👋
 
-junior Frontend Developer
--------------------------
+I'm a junior frontend developer in Ohio. I build things people can actually use, and I learn by shipping them.
 
-one of my resolutions for this year was to learn a new skill, and I picked frontend development. I have been developing my skills and am ready to become a new frontend developer.
+**What I work with:** React · Next.js · TypeScript · Tailwind CSS · Supabase · Firebase · Stripe · Vite
 
-* 🌍  I'm based in Ohio
-* ✉️  You can contact me at [nick.soltau@gmail.com](mailto:nick.soltau@gmail.com)
+## Projects
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
-</p>
+- **[CraftDesk](https://github.com/NickSoltau/craftDesk)** - booking and payments app for small service shops (React, Supabase, Stripe). [Live demo](https://craft-desk-rho.vercel.app)
+- **[Summarist](https://github.com/NickSoltau/summarist)** - book-summary app with sign-in and subscriptions (Next.js, TypeScript, Redux Toolkit). [Live demo](https://summarist-swart.vercel.app)
+- **[Skinstric](https://github.com/NickSoltau/Skinstric)** - AI skincare analysis app built from Figma designs (Next.js, Tailwind v4). [Live demo](https://skinstric-phi-olive.vercel.app)
 
-### Socials
+Before code, I spent years in respiratory therapy and mechanical estimating. Same habit in both: read the situation closely and get it right the first time.
 
-<p align="left"> <a href="https://www.github.com/nicksoltau" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/nick_64407" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+📫 [nick.soltau@gmail.com](mailto:nick.soltau@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nicholas-soltau-075798376)
