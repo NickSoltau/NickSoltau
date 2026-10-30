@@ -1,8 +1,8 @@
 # Hi, I'm Nick Soltau 👋
 
-I'm a frontend developer in Northwest Ohio. I build things people can actually use, and I learn by shipping them.
+I'm a frontend developer who came to code after years in healthcare and mechanical contracting. I hold a BA in Philosophy and an associate degree in Respiratory Therapy, and I've added the AWS Certified Cloud Practitioner credential plus Anthropic's Claude 101 and Claude Code 101 courses to my frontend training. I build with React and Next.js, I'm looking for a frontend role where I can keep learning from a team. I build things people can actually use, and I learn by shipping them.
 
-**What I work with:** React · Next.js · TypeScript · Tailwind CSS · Supabase · Firebase · Stripe · Vite
+**What I work with:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · Supabase · Firebase · Stripe · Vite
 
 ## Projects
 
