@@ -12,4 +12,4 @@ I'm a frontend developer who came to code after years in healthcare and mechanic
 
 Before code, I spent years in respiratory therapy and mechanical estimating. Same habit in both: read the situation closely and get it right the first time.
 
-📫 [nick.soltau@gmail.com](mailto:nick.soltau@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nicholas-soltau-075798376) · [Portfolio](https://portfolio-mu-khaki-39.vercel.app)
+📫 [nick.soltau@gmail.com](mailto:nick.soltau@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nicholas-soltau) · [Portfolio](https://portfolio-mu-khaki-39.vercel.app)
